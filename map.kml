@@ -483,7 +483,7 @@
       </Pair>
     </StyleMap>
     <Placemark>
-      <name>PSE.1.1_1</name>
+      <name>7</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 7<br>COUNTRY: Gaza<br>GID_1: NA<br>NAME_1: Deir Al-Balah<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.GZ.DB]]></description>
       <styleUrl>#poly-0288D1-1000-133</styleUrl>
       <ExtendedData>
@@ -550,7 +550,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.1.2_1</name>
+      <name>13</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 13<br>COUNTRY: Gaza<br>GID_1: NA<br>NAME_1: Gaza<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.GZ.GZ]]></description>
       <styleUrl>#poly-0288D1-1000-201</styleUrl>
       <ExtendedData>
@@ -616,7 +616,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.1.3_1</name>
+      <name>14</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 14<br>COUNTRY: Gaza<br>GID_1: NA<br>NAME_1: Gaza ash Shamaliyah<br>NL_NAME_1: North Gaza<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.GZ.GS]]></description>
       <styleUrl>#poly-0288D1-1000-207</styleUrl>
       <ExtendedData>
@@ -680,7 +680,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.1.4_1</name>
+      <name>6</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 6<br>COUNTRY: Gaza<br>GID_1: NA<br>NAME_1: Khan Yunis<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.GZ.KY]]></description>
       <styleUrl>#poly-0288D1-1000-227</styleUrl>
       <ExtendedData>
@@ -749,7 +749,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.1.5_1</name>
+      <name>9</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 9<br>COUNTRY: Gaza<br>GID_1: NA<br>NAME_1: Rafah<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.GZ.RA]]></description>
       <styleUrl>#poly-0288D1-1000-31</styleUrl>
       <ExtendedData>
@@ -811,7 +811,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.2.1_1</name>
+      <name>4</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 4<br>COUNTRY: West Bank<br>GID_1: NA<br>NAME_1: Bethlehem<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.WE.BL]]></description>
       <styleUrl>#poly-0288D1-1000-59</styleUrl>
       <ExtendedData>
@@ -925,7 +925,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.2.2_1</name>
+      <name>2</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 2<br>COUNTRY: West Bank<br>GID_1: NA<br>NAME_1: Hebron<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.WE.HE]]></description>
       <styleUrl>#poly-0288D1-1000-232</styleUrl>
       <ExtendedData>
@@ -1040,7 +1040,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.2.3_1</name>
+      <name>5</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 5<br>COUNTRY: West Bank<br>GID_1: NA<br>NAME_1: Jenin<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.WE.JN]]></description>
       <styleUrl>#poly-0288D1-1000-79</styleUrl>
       <ExtendedData>
@@ -1171,7 +1171,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.2.4_1</name>
+      <name>1</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 1<br>COUNTRY: West Bank<br>GID_1: NA<br>NAME_1: Jericho<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.WE.JC]]></description>
       <styleUrl>#poly-0288D1-1000-48</styleUrl>
       <ExtendedData>
@@ -1319,7 +1319,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.2.5_1</name>
+      <name>3</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 3<br>COUNTRY: West Bank<br>GID_1: NA<br>NAME_1: Jerusalem<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.WE.JS]]></description>
       <styleUrl>#poly-0288D1-1000-212</styleUrl>
       <ExtendedData>
@@ -1444,7 +1444,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.2.6_1</name>
+      <name>16</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 16<br>COUNTRY: West Bank<br>GID_1: NA<br>NAME_1: Nablus<br>NL_NAME_1: Nabulus<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.WE.NA]]></description>
       <styleUrl>#poly-0288D1-1000-181</styleUrl>
       <ExtendedData>
@@ -1595,7 +1595,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.2.7_1</name>
+      <name>15</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 15<br>COUNTRY: West Bank<br>GID_1: NA<br>NAME_1: Qalqilya<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.WE.QA]]></description>
       <styleUrl>#poly-0288D1-1000-125</styleUrl>
       <ExtendedData>
@@ -1688,7 +1688,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.2.8_1</name>
+      <name>8</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 8<br>COUNTRY: West Bank<br>GID_1: NA<br>NAME_1: Ramallah and Al-Bireh<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.WE.RB]]></description>
       <styleUrl>#poly-0288D1-12420-250</styleUrl>
       <ExtendedData>
@@ -1849,7 +1849,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.2.9_1</name>
+      <name>10</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 10<br>COUNTRY: West Bank<br>GID_1: NA<br>NAME_1: Salfit<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.WE.SA]]></description>
       <styleUrl>#poly-0288D1-1000-219</styleUrl>
       <ExtendedData>
@@ -1946,7 +1946,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.2.10_1</name>
+      <name>11</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 11<br>COUNTRY: West Bank<br>GID_1: NA<br>NAME_1: Tubas<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.WE.TB]]></description>
       <styleUrl>#poly-0288D1-1000-209</styleUrl>
       <ExtendedData>
@@ -2057,7 +2057,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>PSE.2.11_1</name>
+      <name>12</name>
       <description><![CDATA[description: PSE<br>GID_2: Palestine<br>GID_0: 12<br>COUNTRY: West Bank<br>GID_1: NA<br>NAME_1: Tulkarm<br>NL_NAME_1: NA<br>NAME_2: NA<br>VARNAME_2: Governorate<br>NL_NAME_2: Governorate<br>TYPE_2: NA<br>ENGTYPE_2: PS.WE.TL]]></description>
       <styleUrl>#poly-0288D1-1000-209</styleUrl>
       <ExtendedData>
